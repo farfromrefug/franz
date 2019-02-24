@@ -33,7 +33,7 @@ export const DEFAULT_APP_SETTINGS = {
 };
 
 export const DEFAULT_FEATURES_CONFIG = {
-  isSpellcheckerPremiumFeature: false,
+  isSpellcheckerPremiumFeature: true,
   needToWaitToProceed: false,
   needToWaitToProceedConfig: {
     delayOffset: ms('1h'),
